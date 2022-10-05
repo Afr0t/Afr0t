@@ -1,6 +1,6 @@
 
 ## Hi Pleased to Meet You, I'm Nelson :wave:
-<img src="https://i.ibb.co/DpwLCnY/Business-Facebook-Cover-Banner-22.png" alt="Business-Facebook-Cover-Banner-22" data-is360="0" data-load="full" class="" style="width: 1280px; height: 350px;">
+<img src="https://i.ibb.co/DpwLCnY/Business-Facebook-Cover-Banner-22.png" alt="Business-Facebook-Cover-Banner-22" data-is360="0" data-load="full" class="" style="width: device-width">
 <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
@@ -19,10 +19,16 @@ Today, not much has changed. I’m still the first point of call for technical i
 Although I’m still following the Udacity fullstack web development nanodegree, I am well on my way to being a multilingual programmer.
 &nbsp;
 ## My stats :computer: 🥇
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Afr0t&show_icons=true&theme=radical">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afr0t&layout=compact">
-
+<!--
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Afr0t&show_icons=true&theme=radical" class="" style="width: device-width">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afr0t&layout=compact" class="" style="width: device-width">
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Afr0t&show_icons=true&theme=radical" class="" style="width: device-width" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afr0t&layout=compact" class="" style="width: device-width" />
+</a>
 
 <!--
 **Afr0t/Afr0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
