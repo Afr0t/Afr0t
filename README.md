@@ -9,7 +9,7 @@
 <img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 
 &nbsp;
-
+## 
 ## A passionate of IT and Dev since my young age :blush:
 
 As a teenager at school, I was the kid other students approached about issues with their phone or laptop. I was the go-to guy for fixing any technical problems.
