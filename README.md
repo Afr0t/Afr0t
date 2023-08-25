@@ -16,7 +16,7 @@ As a teenager at school, I was the kid other students approached about issues wi
 
 Today, not much has changed. I’m still the first point of call for technical issues. The difference is I now also develop innovative web apps and softwares to solve the problems of multinational companies. One of my most recent projects involved designing and rolling-out a new piece of software to optimise the efficiency of artist booking, from my experience from the Udacity fuyyr project.
 
-Although I’m still following the Udacity fullstack web development nanodegree, I am well on my way to being a multilingual programmer.
+I am well on my way to being a multilingual programmer.
 &nbsp;
 ## My stats :computer: 🥇
 <!--
